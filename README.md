@@ -15,7 +15,7 @@ This frontend project complements the restaurant management system server to pro
 1.  **Clone the Repository:**
     
     
-    `git clone https://github.com/mdshaharulsiyam/restaurant_client.git`
+    `git clone https://github.com/mdshaharulsiyam/restaurant`
     `cd restaurant_client` 
     
 2.  **Install Dependencies:**
