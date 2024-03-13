@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.drawer-side a.active {
+    color: white !important;
+}
+.drawer-side a {
+    background-color:transparent !important;
+     color: black;
+}
+
+:root{
+    background-color: #0C0B08;
+    font-family: serif;
+}
